@@ -37,4 +37,3 @@ $("#liri2").on("click", function(){
 $("#liri3").on("click", function(){
     window.location.href = "https://j.gifs.com/L7gzkA.gif";
 })
-
